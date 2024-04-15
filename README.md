@@ -1,2 +1,1 @@
-# dotfiles
-#Repository to hold my env and dotfiles.
+# dotfiles- Repository to hold my env and dotfiles.
