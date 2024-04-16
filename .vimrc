@@ -24,6 +24,14 @@ Plug 'ap/vim-css-color'
 
 call plug#end()
 
+nnoremap <leader>n :NERDTreeFocus<CR>
+nnoremap <C-n> :NERDTree<CR>
+nnoremap <C-t> :NERDTreeToggle<CR>
+nnoremap <C-f> :NERDTreeFind<CR>
+
+" Start NERDTree and put the cursor back in the other window.
+"autocmd VimEnter * NERDTree
+
 " Enable syntax highlighting
 syntax on
 
