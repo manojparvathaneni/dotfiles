@@ -7,6 +7,9 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 " Vim-Go for Go development
 Plug 'fatih/vim-go'
 
+"Nerdtree
+Plug 'preservim/nerdtree'
+
 " Python-Mode for Python development
 Plug 'python-mode/python-mode'
 
