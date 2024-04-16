@@ -30,7 +30,7 @@ nnoremap <C-t> :NERDTreeToggle<CR>
 nnoremap <C-f> :NERDTreeFind<CR>
 
 " Start NERDTree and put the cursor back in the other window.
-"autocmd VimEnter * NERDTree
+"autocmd VimEnter * NERDTree | windcmd p
 
 " Enable syntax highlighting
 syntax on
